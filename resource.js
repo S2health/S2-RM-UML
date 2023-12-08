@@ -32,14 +32,10 @@ window.resource = {
         logo : 
         {
             src : 'images/logo.png',
-            width: '205px',
             height: '60px'
         },
         banner:
         {
-            src : 'images/process_portal.png',
-            width: '224px',
-            height: '60px'            
         }
     },
     search_panel :
