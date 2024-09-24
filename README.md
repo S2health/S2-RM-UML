@@ -1,4 +1,4 @@
 # S2-RM-UML
-S2 UML site
+[S2 UML site](https://shiny-fiesta-4g5831e.pages.github.io/)
 
 At the moment, the generated site does not display from GitHub pages properly in a browser. You will need to clone this repo and look at it locally in a browser. To make this work, you may need to make [this adjustment](https://docs.nomagic.com/display/MD2021x/Web+Publisher+2.0+report) to your browser launch command line. This site is generated from MagicDraw tooling and right now, there is nothing we can do about the display issue.
