@@ -1,0 +1,17 @@
+{
+    "id": "S2-RM-UML",
+    "title": "S2 Global UML",
+    "description": "UML for S2 Reference Model",
+    "keywords": "UML, S2",
+    "releases": [
+        {
+            "id": "0.8.7",
+            "date": "2024-11-04",
+            "github": {
+                "crs": "https://github.com/S2health/S2-RM-UML/issues?q=is%3Aissue%20state%3Aclosed%20milestone%3Av0.8.7%20label%3Achange",
+                "prs": "https://github.com/S2health/S2-RM-UML/issues?q=is%3Aissue%20state%3Aclosed%20milestone%3Av0.8.7%20label%3Adocumentation%20label%3Aenhancement%20label%3Aerror"
+            }
+        }
+    ]
+}
+
